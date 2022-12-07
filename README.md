@@ -35,4 +35,5 @@
    ![003](https://user-images.githubusercontent.com/114061101/206136062-d9780eb4-e83f-4bb7-8a8f-69bbbd2bbdc1.png)
 
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+- ### 2022 학년도 제11회 정보기술대학 작품전시회 
+<img width="344" alt="004" src="https://user-images.githubusercontent.com/114061101/206136848-5b1fa6d8-bb9a-4998-b3d6-5362931238f5.PNG">
